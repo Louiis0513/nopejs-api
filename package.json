@@ -1,0 +1,14 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "CRUD app using Node.js, Express, and Sequelize",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "mariadb": "^2.5.3"
+  }
+}
